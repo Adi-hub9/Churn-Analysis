@@ -129,6 +129,6 @@ The dashboard provides insights that help organizations make **strategic decisio
 
 # 7. Screenshot / Demo
 
-![Dashboard Screenshot](https://github.com/yourusername/your-repo-name/blob/main/dashboard-image.png)
+![Dashboard Screenshot](https://github.com/Adi-hub9/Churn-Analysis/blob/main/Churn_Analysis1.png)
 
 
